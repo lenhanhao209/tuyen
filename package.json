@@ -1,0 +1,22 @@
+{
+  "name": "lenhanhao",
+  "version": "1.0.0",
+  "description": "bds",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenhanhao6209/BDS-tuyen.git"
+  },
+  "keywords": [
+    "bds"
+  ],
+  "author": "lenhanhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenhanhao6209/BDS-tuyen/issues"
+  },
+  "homepage": "https://github.com/lenhanhao6209/BDS-tuyen#readme"
+}
